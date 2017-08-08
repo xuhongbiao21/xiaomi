@@ -1,0 +1,11 @@
+{
+    "name": "tckj/xiaomi",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xu",
+            "email": "495958434@qq.com"
+        }
+    ],
+    "require": {}
+}
